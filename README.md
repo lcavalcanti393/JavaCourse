@@ -2,6 +2,6 @@
 
 This is my third first repository.
 -----------------------------------------
-I already created this same repository before, but i deleted.
+I already created this same repository before, but I deleted.
 
-This course is taught by Nelio Alves (@acenelio).
+The course is taught by Nelio Alves (@acenelio).
